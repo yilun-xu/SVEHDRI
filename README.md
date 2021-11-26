@@ -32,7 +32,7 @@ If you find this work or code is helpful in your research, please cite:
 ```
 
 ## Contact
-If you have any questions, feel free to E-mail me via: `yilunxu_buaa(at)163.com`
+If you have any questions, feel free to E-mail me via: `yilunxu_buaa@163.com`
 
 ## License
 The code is released under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International Public License for Noncommercial use only. Any commercial use should get formal permission first.
