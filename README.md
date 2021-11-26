@@ -8,7 +8,7 @@ link：https://pan.baidu.com/s/1tnY5I0zoCHesp2EFEEHg6w       Code for extraction
 It is worth noting that the application domain of this dataset is not limited to single-shot HDRI tasks.
 
 ## Citation
-If you find this work or code is helpful in your research, please cite:
+If you find this code or dataset is helpful in your research, please cite:
 ```
 @ARTICLE{9622212,
   author={Xu, Yilun and Liu, Ziyang and Wu, Xingming and Chen, Weihai and Wen, Changyun and Li, Zhengguo},
