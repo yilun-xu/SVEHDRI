@@ -7,7 +7,7 @@ Spatially varying exposure (SVE) is a promising choice for high-dynamic-range (H
 Our work was published in 《IEEE International Conference on Multimedia and Expo (ICME)》 and 《IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)》 successively. The paper titles are "Restoration of HDR Images for SVE-Based HDRI via a Novel DCNN" and "Deep Joint Demosaicing and High Dynamic Range Imaging within a Single Shot" respectively. As the contents of the journal are more complete than those of the conference, please refer to the contents of the journal.
 
 ## Code
-We take the CNN model proposed in the journal as our final open source model. The code for the model and loss function is implemented with PyTorch. Our training code and test code refer to the template provided in the link below：
+We take the CNN model proposed in the journal as our final open source model. The code for the model and loss function is implemented with PyTorch. Our training code and test code refer to the image restoration toolbox provided in the link below：
 https://github.com/xinntao/BasicSR
 
 ## A New Dataset Containing the Original Files
